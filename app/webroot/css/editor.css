@@ -1,0 +1,41 @@
+@import url("all.css");
+
+body{
+	background: none !important;
+        min-width:600px !important;
+}
+
+h1 {
+	font-size:18px;
+	line-height:22px;
+	margin:0 0 1px;
+	color:#333;
+	font-weight:bold;
+}
+.mceContentBody{
+    width:600px;
+}
+
+h2 {
+	font-size:16px;
+	line-height:22px;
+	margin:0 0 1px;
+	color:#333;
+	font-weight:bold;
+}
+
+h3 {
+	font-size:14px;
+	line-height:22px;
+	margin:0 0 1px;
+	color:#333;
+	font-weight:bold;
+}
+
+sub {
+	font-size:xx-small; vertical-align:bottom;
+}
+
+sup {
+	font-size:xx-small; vertical-align:top;
+}
